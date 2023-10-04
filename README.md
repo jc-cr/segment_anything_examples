@@ -1,6 +1,6 @@
 # Segment Anything Examples
 
-Just some examples for testing [Segment Anything](https://github.com/facebookresearch/segment-attention).
+Just some examples for testing [Segment Anything]([https://github.com/facebookresearch/segment-attention](https://github.com/facebookresearch/segment-anything/tree/main)).
 
 ## Description
 
@@ -18,16 +18,6 @@ This repository contains example code for using the Segment Anything model by Fa
     cd segment_anything_examples
     ```
 
-3. Install the required packages:
-    ```
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 Run the example scripts
-
-
-## Acknowledgments
-
-* [Facebook Research's Segment Anything](https://github.com/facebookresearch/segment-anything)
